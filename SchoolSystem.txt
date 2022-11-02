@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Scanner;
-
+//添加注释
 public class SchoolSystem implements ISignUp,IParams {
     int big = 0;
     int medium = 0;
