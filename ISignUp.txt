@@ -1,0 +1,13 @@
+import java.util.ArrayList;
+
+public interface ISignUp {
+    public void print();
+
+    public boolean addStudent (int stuType);
+
+    public static IParams parse(String next) throws Exception{
+
+        return null;
+    };
+
+}
