@@ -1,5 +1,4 @@
-import java.util.ArrayList;
-
+import java.util.ArrayList;//添加注释
 public interface ISignUp {
     public void print();
 
@@ -8,6 +7,6 @@ public interface ISignUp {
     public static IParams parse(String next) throws Exception{
 
         return null;
-    };
+    }
 
 }
